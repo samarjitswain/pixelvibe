@@ -6,10 +6,10 @@ const Header = () => {
       <nav>
         <h1>PixelVibe</h1>
         <main>
-          <HashLink to="/pixelvibe/#home">Home</HashLink>
+          <HashLink to="/#home">Home</HashLink>
           <Link to="/contact">Contact</Link>
-          <HashLink to="/pixelvibe/#about">About</HashLink>
-          <HashLink to="/pixelvibe/#brands">Brands</HashLink>
+          <HashLink to="/#about">About</HashLink>
+          <HashLink to="/#brands">Brands</HashLink>
           <Link to="/services">Services</Link>
         </main>
       </nav>
